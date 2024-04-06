@@ -1,0 +1,83 @@
+[
+    {
+      "name": "John Doe",
+      "date_of_birth": "1990-05-15",
+      "experience": "5 years",
+      "education": "Bachelor's in Computer Science",
+      "resume": "john_doe_resume.pdf",
+      "expected_salary": "$70,000"
+    },
+    {
+      "name": "Jane Smith",
+      "date_of_birth": "1985-08-20",
+      "experience": "8 years",
+      "education": "Master's in Business Administration",
+      "resume": "jane_smith_resume.pdf",
+      "expected_salary": "$90,000"
+    },
+    {
+      "name": "Michael Johnson",
+      "date_of_birth": "1988-12-10",
+      "experience": "7 years",
+      "education": "Bachelor's in Electrical Engineering",
+      "resume": "michael_johnson_resume.pdf",
+      "expected_salary": "$80,000"
+    },
+    {
+      "name": "Emily Brown",
+      "date_of_birth": "1992-03-25",
+      "experience": "4 years",
+      "education": "Bachelor's in Marketing",
+      "resume": "emily_brown_resume.pdf",
+      "expected_salary": "$75,000"
+    },
+    {
+      "name": "David Wilson",
+      "date_of_birth": "1987-06-18",
+      "experience": "9 years",
+      "education": "Bachelor's in Civil Engineering",
+      "resume": "david_wilson_resume.pdf",
+      "expected_salary": "$95,000"
+    },
+    {
+      "name": "Emma Taylor",
+      "date_of_birth": "1991-09-30",
+      "experience": "6 years",
+      "education": "Bachelor's in Finance",
+      "resume": "emma_taylor_resume.pdf",
+      "expected_salary": "$85,000"
+    },
+    {
+      "name": "Christopher Martinez",
+      "date_of_birth": "1986-02-08",
+      "experience": "10 years",
+      "education": "Bachelor's in Computer Engineering",
+      "resume": "christopher_martinez_resume.pdf",
+      "expected_salary": "$100,000"
+    },
+    {
+      "name": "Olivia Thomas",
+      "date_of_birth": "1993-11-12",
+      "experience": "3 years",
+      "education": "Bachelor's in Human Resources",
+      "resume": "olivia_thomas_resume.pdf",
+      "expected_salary": "$72,000"
+    },
+    {
+      "name": "Daniel Anderson",
+      "date_of_birth": "1989-04-05",
+      "experience": "7 years",
+      "education": "Master's in Computer Science",
+      "resume": "daniel_anderson_resume.pdf",
+      "expected_salary": "$85,000"
+    },
+    {
+      "name": "Sophia Garcia",
+      "date_of_birth": "1990-07-28",
+      "experience": "5 years",
+      "education": "Bachelor's in Psychology",
+      "resume": "sophia_garcia_resume.pdf",
+      "expected_salary": "$78,000"
+    }
+  ]
+  

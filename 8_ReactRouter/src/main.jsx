@@ -12,6 +12,7 @@ import Login from './components/Login/Login.jsx'
 import UserSignup from './components/UserSignup/UserSignup.jsx'
 import CompanySignup from './components/CompanySignup/CompanySignup.jsx'
 import Applications from './components/Applications/Applications.jsx'
+import Applicants from './components/Applicants/Applicants.jsx'
 
 
 
@@ -25,6 +26,7 @@ const router=createBrowserRouter(
       <Route path='user/signup' element={<UserSignup/>}></Route>
       <Route path='company/signup' element={<CompanySignup/>}></Route>
       <Route path='user/applications' element={<Applications/>}></Route>
+      <Route path='/company/applicants' element={<Applicants/>}></Route>
 
       
 
