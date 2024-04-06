@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name": "Company A",
+      "image": "https://example.com/company-a-logo.jpg",
+      "yearOfFoundation": 2000,
+      "ceo": "John Doe",
+      "rating": 4.5,
+      "revenue": "$1 billion"
+    },
+    {
+      "id": 2,
+      "name": "Company B",
+      "image": "https://example.com/company-b-logo.jpg",
+      "yearOfFoundation": 1995,
+      "ceo": "Jane Smith",
+      "rating": 4.2,
+      "revenue": "$800 million"
+    },
+    {
+      "id": 3,
+      "name": "Company C",
+      "image": "https://example.com/company-c-logo.jpg",
+      "yearOfFoundation": 2005,
+      "ceo": "Alice Johnson",
+      "rating": 4.8,
+      "revenue": "$1.5 billion"
+    },
+    {
+      "id": 4,
+      "name": "Company D",
+      "image": "https://example.com/company-d-logo.jpg",
+      "yearOfFoundation": 2010,
+      "ceo": "Bob Williams",
+      "rating": 4.0,
+      "revenue": "$600 million"
+    }
+
+  ]
+  

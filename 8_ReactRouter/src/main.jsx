@@ -7,29 +7,13 @@ import Home from './components/Home/Home.jsx'
 import About from './components/About/About.jsx'
 import Contact from './components/Contact/Contact.jsx'
 import User from './components/User/User.jsx'
-import Github from './components/Github/Github.jsx'
+import Auth from './components/Auth/Auth.jsx'
+import Login from './components/Login/Login.jsx'
+import UserSignup from './components/UserSignup/UserSignup.jsx'
+import CompanySignup from './components/CompanySignup/CompanySignup.jsx'
+import Applications from './components/Applications/Applications.jsx'
 
-// const router=createBrowserRouter([
-//   {
-//     path:'/',
-//     element:<App/>,
-//     children:[
-//       {
-//         path:"",
-//         element:<Home/>    
-//       },
-//       {
-//         path:"about",
-//         element:<About/>
-//       },
-//       {
-//         path:"contact",
-//         element:<Contact/>
-//       }
-//     ]
 
-//   }
-// ])
 
 const router=createBrowserRouter(
   createRoutesFromElements(
@@ -38,7 +22,15 @@ const router=createBrowserRouter(
       <Route path='about' element={<About/>}></Route>
       <Route path='contact' element={<Contact/>}></Route>
       <Route path='user/:userid' element={<User/>}></Route>
-      <Route path='github' element={<Github/>}></Route>
+      <Route path='user/signup' element={<UserSignup/>}></Route>
+      <Route path='company/signup' element={<CompanySignup/>}></Route>
+      <Route path='user/applications' element={<Applications/>}></Route>
+
+      
+
+      {/* <Route path='github' element={<Github/>}></Route> */}S
+      <Route path='auth' element={<Auth/>}></Route>
+      <Route path='login' element={<Login/>}></Route>
     </Route>
   )
 )

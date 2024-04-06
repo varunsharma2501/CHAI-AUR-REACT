@@ -1,0 +1,63 @@
+[
+    {
+      "title": "XYZ Corporation",
+      "date_of_application": "2024-03-15",
+      "status": "Pending",
+      "description": "Applied for software engineer position."
+    },
+    {
+      "title": "ABC Tech",
+      "date_of_application": "2024-02-28",
+      "status": "Rejected",
+      "description": "Applied for frontend developer role."
+    },
+    {
+      "title": "Tech Innovations Ltd.",
+      "date_of_application": "2024-04-01",
+      "status": "Interview Scheduled",
+      "description": "Applied for full-stack developer position. Scheduled for interview on April 10th."
+    },
+    {
+      "title": "Global Solutions Inc.",
+      "date_of_application": "2024-03-20",
+      "status": "Under Review",
+      "description": "Applied for software architect role."
+    },
+    {
+      "title": "Smart Technologies Co.",
+      "date_of_application": "2024-03-10",
+      "status": "Pending",
+      "description": "Applied for backend developer position."
+    },
+    {
+      "title": "Data Analytics Solutions",
+      "date_of_application": "2024-02-15",
+      "status": "Offer Extended",
+      "description": "Applied for data scientist role. Received job offer on March 1st."
+    },
+    {
+      "title": "Innovative Solutions Group",
+      "date_of_application": "2024-01-25",
+      "status": "Pending",
+      "description": "Applied for product manager position."
+    },
+    {
+      "title": "Future Enterprises Inc.",
+      "date_of_application": "2024-03-05",
+      "status": "Rejected",
+      "description": "Applied for business analyst role."
+    },
+    {
+      "title": "TechXperts Ltd.",
+      "date_of_application": "2024-04-02",
+      "status": "Under Review",
+      "description": "Applied for senior software engineer position."
+    },
+    {
+      "title": "Global Software Solutions",
+      "date_of_application": "2024-03-08",
+      "status": "Pending",
+      "description": "Applied for software developer position."
+    }
+  ]
+  
