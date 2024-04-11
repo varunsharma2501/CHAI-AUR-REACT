@@ -2,7 +2,7 @@
     {
       "id": 1,
       "name": "Company A",
-      "image": "https://example.com/company-a-logo.jpg",
+      "image": "https://images.pexels.com/photos/188035/pexels-photo-188035.jpeg?auto=compress&cs=tinysrgb&w=600",
       "yearOfFoundation": 2000,
       "ceo": "John Doe",
       "rating": 4.5,
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "name": "Company B",
-      "image": "https://example.com/company-b-logo.jpg",
+      "image": "https://images.pexels.com/photos/27406/pexels-photo-27406.jpg?auto=compress&cs=tinysrgb&w=600",
       "yearOfFoundation": 1995,
       "ceo": "Jane Smith",
       "rating": 4.2,
@@ -20,7 +20,7 @@
     {
       "id": 3,
       "name": "Company C",
-      "image": "https://example.com/company-c-logo.jpg",
+      "image": "https://images.pexels.com/photos/273665/pexels-photo-273665.jpeg?auto=compress&cs=tinysrgb&w=600",
       "yearOfFoundation": 2005,
       "ceo": "Alice Johnson",
       "rating": 4.8,
@@ -29,7 +29,7 @@
     {
       "id": 4,
       "name": "Company D",
-      "image": "https://example.com/company-d-logo.jpg",
+      "image": "https://images.pexels.com/photos/3184431/pexels-photo-3184431.jpeg?auto=compress&cs=tinysrgb&w=600",
       "yearOfFoundation": 2010,
       "ceo": "Bob Williams",
       "rating": 4.0,

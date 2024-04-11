@@ -1,21 +1,23 @@
 import React from 'react'
 import {Link,NavLink} from 'react-router-dom';
+import logo from "../../assets/logos/logo-white.png";
 function Header() {
     return (
-        <header className="shadow sticky z-50 top-0">
+        <header className="shadow sticky z-50 top-0 mb-20">
             <nav className="bg-white border-gray-200 px-4 lg:px-6 py-2.5">
                 <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                     <Link to="/" className="flex items-center">
                         <img
-                            src="https://cdn.pixabay.com/photo/2017/10/31/09/55/dream-job-2904780_1280.jpg"
-                            className="mr-3 h-12"
+                            src={logo}
                             alt="Logo"
+                            className="mr-3 h-16"
                         />
                     </Link>
             <div className="flex items-center lg:order-2">
                 <Link
                     to="/auth"
-                    className="bg-blue-500 text-white hover:bg-red-600 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-lg px-6 lg:px-8 py-3 lg:py-4 mr-2 focus:outline-none"
+                    className="bg-black text-white hover:bg-red-600 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-lg px-6 lg:px-8 py-3 lg:py-4 mr-2 focus:outline-none"
+
                 >
                     Log in
                 </Link>
@@ -37,7 +39,7 @@ function Header() {
                                 </NavLink>
                             </li>
                             <li>
-                                <NavLink to="/about"
+                                <NavLink to="companyreview"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-gray-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }
@@ -46,7 +48,7 @@ function Header() {
                                 </NavLink>
                             </li>
                             <li>
-                                <NavLink to="/contact"
+                                <NavLink to="/salaryGuide"
                                     className={({isActive}) =>
                                         `block py-2 pr-4 pl-3 duration-200 ${isActive?"text-orange-700":"text-gray-700"} border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 hover:text-orange-700 lg:p-0`
                                     }

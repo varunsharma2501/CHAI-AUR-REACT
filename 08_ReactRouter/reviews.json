@@ -1,0 +1,63 @@
+[
+    {
+      "name": "John Doe",
+      "rating": 4,
+      "date": "2022-04-01",
+      "description": "Great experience overall. Friendly staff and excellent service."
+    },
+    {
+      "name": "Jane Smith",
+      "rating": 5,
+      "date": "2022-03-25",
+      "description": "Highly recommend! The product exceeded my expectations."
+    },
+    {
+      "name": "Mike Johnson",
+      "rating": 3,
+      "date": "2022-03-20",
+      "description": "Decent experience. Could have been better with more attention to detail."
+    },
+    {
+      "name": "Emily Brown",
+      "rating": 5,
+      "date": "2022-03-15",
+      "description": "Absolutely fantastic! Will definitely come back for more."
+    },
+    {
+      "name": "Alex Wilson",
+      "rating": 2,
+      "date": "2022-03-10",
+      "description": "Disappointing service. Waited for hours and still didn't get what I wanted."
+    },
+    {
+      "name": "Sarah Clark",
+      "rating": 4,
+      "date": "2022-03-05",
+      "description": "Good value for money. Would have given 5 stars if delivery was faster."
+    },
+    {
+      "name": "Chris Taylor",
+      "rating": 5,
+      "date": "2022-03-01",
+      "description": "Impressive quality and timely delivery. Keep up the good work!"
+    },
+    {
+      "name": "Linda Martinez",
+      "rating": 3,
+      "date": "2022-02-25",
+      "description": "Average experience. Nothing exceptional but nothing terrible either."
+    },
+    {
+      "name": "Daniel White",
+      "rating": 4,
+      "date": "2022-02-20",
+      "description": "Satisfied with the product. Would buy again in the future."
+    },
+    {
+      "name": "Megan Turner",
+      "rating": 5,
+      "date": "2022-02-15",
+      "description": "Excellent customer service and top-notch quality products."
+    }
+  ]
+  
