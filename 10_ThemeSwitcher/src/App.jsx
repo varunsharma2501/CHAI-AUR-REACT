@@ -11,7 +11,7 @@ function App() {
     setThemeMode("light");
   }
   const darkMode=()=>{
-    setThemeMode(" dark");
+    setThemeMode("dark");
   }
 
   useEffect(()=>{
@@ -20,8 +20,8 @@ function App() {
   },[themeMode]);
 
   return (
-   
-<div className="flex flex-wrap min-h-screen items-center">
+      <ThemeProvider value={{themeMode,darkMode,lightMode}}>
+          <div className="flex flex-wrap min-h-screen items-center">
                 <div className="w-full">
                     <div className="w-full max-w-sm mx-auto flex justify-end mb-4 ">
                       <ThemeBtn/>
@@ -31,8 +31,8 @@ function App() {
                         <Card/>
                     </div>
                 </div>
-            </div>
-
+          </div>
+      </ThemeProvider>
   )
 }
 
